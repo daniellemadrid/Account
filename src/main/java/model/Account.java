@@ -8,6 +8,7 @@ public class Account {
         this.availableLimit = availableLimit;
         this.activeCard = activeCard;
     }
+
     public int getAvailableLimit() {
         return availableLimit;
     }
